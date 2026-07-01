@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6s0080/T/v1
+canonical_location: https://kanripo.org/bkk/KR6s0080/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 波斯教殘經
+  identifiers:
+    krp: KR6s0080
+    cbeta: T54n2141B
+    cbeta_old_id: T54n2141B
+    authorityid: CA0000332
+    json_key: T2141B
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T54/T54n2141B.xml
+    old_id: T54n2141B
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6s0080_000-T.yaml, hash: 'sha256:f772e7b1defb376b6f7c24e81f85f465fcf928e50ae5eafb2024618aa13201cc'}
+  - {seq: 1, filename: KR6s0080_001-T.yaml, hash: 'sha256:f207c61f9d2d2d616b4a987c0a7543c7cece7133793b9dd2db74fab06d129a3e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6s0080_000-T.markers.yaml, hash: 'sha256:f7e450de9ae0de7dcf9be17bc853cb4d97f54be049c4bd64f65cbf64579a9a23'}
+  - {seq: 1, role: markers, filename: assets/KR6s0080_001-T.markers.yaml, hash: 'sha256:386a77d68ada522a993897f10f52b04678423d964e3432b1cab30e0b5123c25e'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6s0080_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 7308
+  label: 波斯教殘經敦煌莫高窟藏本今歸京師圖書館　佚籍叢殘十五
+  type: juan
+  level: 1
+hash: sha256:83ee85fe19f3aac011b55d0a6496ec3908f40b1099e8b24e1ad35419ca58f154

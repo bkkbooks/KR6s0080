@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6s0080/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 波斯教殘經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T54/T54n2141B.xml
+    old_id: T54n2141B
+hash: sha256:f772e7b1defb376b6f7c24e81f85f465fcf928e50ae5eafb2024618aa13201cc
