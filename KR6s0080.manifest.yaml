@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6s0080_000.yaml, hash: 'sha256:f772e7b1defb376b6f7c24e81f85f465fcf928e50ae5eafb2024618aa13201cc'}
-  - {seq: 1, filename: KR6s0080_001.yaml, hash: 'sha256:b114693ae0313220c8502214af81e2e6471c61d9d97535b9636e8fa59c96d3b0'}
+  - {seq: 1, filename: KR6s0080_001.yaml, hash: 'sha256:f207c61f9d2d2d616b4a987c0a7543c7cece7133793b9dd2db74fab06d129a3e'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6s0080_001.markers.yaml, hash: 'sha256:bb26919ee1795c3343c70b8a8023192fdf9abaee7968b2899076042af8530da5'}
+  - {seq: 0, role: markers, filename: assets/KR6s0080_000.markers.yaml, hash: 'sha256:d7adb6c524554bb25debbbf571d20b00141881c2bfe7c574c26da10f9c1ba890'}
+  - {seq: 1, role: markers, filename: assets/KR6s0080_001.markers.yaml, hash: 'sha256:e102c35fdd0b3016d2a8ff30a09549a714e1c32c9e62c8bfec0d03c9b6bb0c45'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 波斯教殘經敦煌莫高窟藏本今歸京師圖書館　佚籍叢殘十五
   type: juan
   level: 1
-hash: sha256:5caef5fa148549bc082eb386b4f672756da4dc012cf690ceecd24e5e82cc587e
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:f06b55ab98190b135f20af96cfa85f0e3743d6b0bb7dae48729c4bb09aaea70a
