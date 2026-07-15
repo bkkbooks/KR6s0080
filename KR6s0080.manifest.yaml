@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6s0080/v1
 canonical_location: https://kanripo.org/bkk/KR6s0080/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 波斯教殘經
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6s0080_000.yaml, hash: 'sha256:f772e7b1defb376b6f7c24e81f85f465fcf928e50ae5eafb2024618aa13201cc'}
-  - {seq: 1, filename: KR6s0080_001.yaml, hash: 'sha256:f207c61f9d2d2d616b4a987c0a7543c7cece7133793b9dd2db74fab06d129a3e'}
+  - {seq: 1, filename: KR6s0080_001.yaml, hash: 'sha256:0ee5bc20a409ffdba184a999c2b4c8b6f6efc00b53fc8c307f355cfa1376d7e2'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6s0080_000.markers.yaml, hash: 'sha256:d7adb6c524554bb25debbbf571d20b00141881c2bfe7c574c26da10f9c1ba890'}
-  - {seq: 1, role: markers, filename: assets/KR6s0080_001.markers.yaml, hash: 'sha256:e102c35fdd0b3016d2a8ff30a09549a714e1c32c9e62c8bfec0d03c9b6bb0c45'}
+  - {seq: 1, role: markers, filename: assets/KR6s0080_001.markers.yaml, hash: 'sha256:9409fe8263d87440d5c143e4af5def34840e72f8149928f3c8e292a9fe5bda1e'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 波斯教殘經敦煌莫高窟藏本今歸京師圖書館　佚籍叢殘十五
   type: juan
   level: 1
-hash: sha256:f06b55ab98190b135f20af96cfa85f0e3743d6b0bb7dae48729c4bb09aaea70a
+hash: sha256:e339fafbeb56fc2351f5de8a9d7b7cb70a67ed36b266525bbb41bba0d701b3eb
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
